@@ -1,1 +1,5 @@
+The Stanford Question Answering Dataset (SQuAD) is a set of reading comprehension data consisting of questions asked by social workers on a set of Wikipedia articles, where the answer to each question is a segment of text, or span, of the corresponding reading passage. 
+With more than 100,000 question-answer pairs on more than 500 articles, SQuAD is significantly larger than previous reading comprehension datasets. 
+SQuAD2.0 combines the 100,000 questions from SQuAD1.1 with more than 50,000 new unanswered questions written in a contradictory manner by crowd workers to look like answered questions.
 
+Details - https://rajpurkar.github.io/SQuAD-explorer/
