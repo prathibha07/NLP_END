@@ -1,1 +1,5 @@
+AmbiqQA is a new open-domain question answering task that consists of predicting a set of question and answer pairs, where each plausible answer is associated with a disambiguated rewriting of the original question. 
+A data set covering 14,042 open-ended QI-open questions.
+
+Details  -  https://nlp.cs.washington.edu/ambigqa/
 
