@@ -1,1 +1,4 @@
+DROP is a 96-question repository, created by the opposing party, in which a system must resolve references in a question, perhaps to multiple input positions, and perform discrete operations on them (such as adding, counting or sorting). 
+These operations require a much more complete understanding of paragraph content than was required for previous data sets.
 
+Details - https://allennlp.org/drop
