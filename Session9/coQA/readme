@@ -1,1 +1,6 @@
+CoQA is a large-scale data set for the construction of conversational question answering systems. 
+The CoQA contains 127,000 questions with answers, obtained from 8,000 conversations involving text passages from seven different domains.
+The goal of the CoQA challenge is to measure the ability of machines to understand a text passage and answer a series of interconnected questions that appear in a conversation.
+
+Details - https://stanfordnlp.github.io/coqa/
 
